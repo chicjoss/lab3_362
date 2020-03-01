@@ -435,13 +435,11 @@ p{
 }
 #email {
 	width: 70%;
-	margin: .2em 0em;
 	background: #9370DB;
 }
 input[type=checkbox] {
 	height: .5em;
 	width: .5em;
-	margin: .5em;
 }
 
 #input-submit
